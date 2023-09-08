@@ -21,6 +21,17 @@ body {
     text-align: center;
   }
   
+  .disclaimer-link {
+    color: black; 
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    font-size: 14px; 
+  }
+  .disclaimer-link:visited {
+    color: black;
+  }
+  
   .app {
     display: flex;
     align-items: center;
